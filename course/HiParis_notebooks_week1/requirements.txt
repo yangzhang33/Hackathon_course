@@ -1,0 +1,15 @@
+boto3
+scikit-learn==0.24.2
+tqdm==4.46.0
+matplotlib==3.4.2
+pyarrow
+missingno
+numpy
+pandas==1.3.1
+seaborn==0.11.1
+plotly==5.1.0 
+tenacity==8.0.1
+ipywidgets==7.6.3
+statsmodels==0.12.2
+#jupyter_contrib_nbextensions
+#shap==0.39.0
